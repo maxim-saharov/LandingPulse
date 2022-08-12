@@ -26,3 +26,4 @@ yarn-error.log*
 # other
 /.idea/
 /.vscode/
+/src/mailer/smart.php
