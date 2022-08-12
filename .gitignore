@@ -28,4 +28,4 @@ yarn-error.log*
 /.vscode/
 /src/mailer/smart.php
 #git rm --cached smart.php
-#git commit -m "remove smart.php"
+#git commit -m "Remove smart.php only from git"
