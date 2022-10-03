@@ -54,9 +54,10 @@
         height: 630px;
         border: none;
     }
-    .footer__сreated-by {
+    &__сreated-by {
         text-align: center;
-        margin: 35px 0 45px;
+        height: 110px;
+        padding-top: 40px;
     }
 }
 

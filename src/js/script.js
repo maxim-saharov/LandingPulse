@@ -67,13 +67,13 @@ $( document ).ready( function () {
          },
          messages: {
             name: {
-               required: 'Пожалуйста, введите свое имя',
-               minlength: jQuery.validator.format( 'Введите {0} символа!' )
+               required: 'Please enter your name',
+               minlength: jQuery.validator.format( 'Enter {0} characters!' )
             },
-            phone: 'Пожалуйста, введите свой номер телефона',
+            phone: 'Please enter your phone number',
             email: {
-               required: 'Пожалуйста, введите свою почту',
-               email: 'Неправильно введен адрес почты'
+               required: 'Please enter your email',
+               email: 'Email address entered incorrectly'
             }
          }
       } )
